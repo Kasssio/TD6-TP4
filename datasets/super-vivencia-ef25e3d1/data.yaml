@@ -1,0 +1,20 @@
+task: detect
+name: super vivencia
+description: ""
+bytes: 5058985
+url: https://platform.ultralytics.com/lucas-estrada/datasets/super-vivencia
+version: latest
+created_at: "2026-11-16T21:41:21.752Z"
+updated_at: "2026-11-16T21:53:33.408Z"
+names:
+  0: Vocacion
+  1: Tinelli
+  2: Melitas
+  3: Tomate
+  4: Tronco
+  5: Al' jafor
+  6: messy life
+train: images/train
+val: images/val
+hash: ef25e3d1
+complete: true
